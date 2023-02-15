@@ -17,7 +17,7 @@ public class Revision1 {
      */
     public static void main(String[] args) {
 Scanner sc=new Scanner(System.in);   //input from user
-String word=sc.next();  //kamal
+String word=sc.next();
 
 char[] rev=new char[word.length()];
 for(int i=0; i<word.length(); i++)      
