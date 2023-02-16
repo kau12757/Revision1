@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  *
  * @author kamal
+ date 15 Feb
  */
 public class Revision1 {
 
